@@ -1,63 +1,237 @@
-State/Territory,FY 2016,FY 2017,FY 2018,FY 2019,FY 2020
-,,,,,Preliminary
-Alabama,"525,931","511,643","499,631","499,934","364,616"
-Alaska,"52,480","53,578","53,653","53,285","34,972"
-American Samoa,--,--,--,--,--
-Arizona,"641,045","638,068","627,683","619,431","490,410"
-Arkansas,"317,039","314,201","310,997","312,581","277,628"
-California,"3,251,929","3,215,762","3,177,216","3,153,141","2,590,735"
-Colorado,"376,744","368,668","367,376","360,197","247,094"
-Connecticut,"288,156","283,198","278,108","284,286","211,180"
-Delaware,"98,528","98,977","97,980","98,371","65,816"
-District of Columbia,"53,886","52,711","56,095","52,641","38,656"
-Florida,"1,704,153","1,715,860","1,752,599","1,725,924","1,217,803"
-Georgia,"1,224,627","1,211,207","1,190,338","1,174,602","949,039"
-Guam,"18,485","17,792","17,241","19,493","15,441"
-Hawaii,"106,993","103,947","102,751","103,712","73,986"
-Idaho,"157,149","155,249","151,937","148,762","109,561"
-Illinois,"1,084,030","1,059,266","1,044,213","1,014,938","689,825"
-Indiana,"754,995","743,331","734,633","727,813","536,155"
-Iowa,"381,877","377,927","373,033","373,442","272,327"
-Kansas,"342,540","338,077","333,287","331,044","234,247"
-Kentucky,"528,663","525,319","515,845","514,524","352,615"
-Louisiana,"548,136","550,544","548,082","545,226","383,481"
-Maine,"99,422","97,730","96,195","95,318","63,694"
-Maryland,"446,283","445,433","443,321","441,984","298,113"
-Massachusetts,"531,647","529,822","527,937","526,432","387,014"
-Michigan,"823,888","801,942","793,460","803,269","547,322"
-Minnesota,"616,257","613,846","610,081","605,578","413,176"
-Mississippi,"381,642","371,355","361,804","354,127","240,501"
-Missouri,"598,665","586,909","578,290","564,083","451,035"
-Montana,"82,747","82,175","80,854","79,205","55,914"
-Nebraska,"242,254","242,852","244,089","243,570","168,727"
-Nevada,"222,218","224,528","227,933","230,150","155,366"
-New Hampshire,"85,946","83,276","80,656","80,389","64,148"
-New Jersey,"695,986","694,111","690,361","667,127","547,592"
-New Mexico,"219,638","217,324","213,970","208,952","178,757"
-New York,"1,679,716","1,663,296","1,683,130","1,688,388","1,261,350"
-North Carolina,"892,867","866,759","851,197","835,081","561,631"
-North Dakota,"91,374","91,950","93,071","93,332","63,571"
-Ohio,"1,013,673","994,189","984,750","969,722","792,015"
-Oklahoma,"447,425","442,478","436,689","432,496","351,841"
-Oregon,"303,164","297,120","293,894","287,378","198,717"
-Pennsylvania,"1,029,008","1,021,263","1,017,650","1,011,895","801,782"
-Puerto Rico,"276,273","244,863","192,610","198,588","108,723"
-Rhode Island,"77,882","77,399","76,402","77,705","51,801"
-South Carolina,"478,436","472,538","472,200","473,926","385,495"
-South Dakota,"108,324","107,494","106,416","105,338","92,809"
-Tennessee,"671,671","656,161","653,668","641,334","630,481"
-Texas,"3,377,166","3,348,959","3,342,356","3,362,143","2,688,934"
-Utah,"334,438","335,493","333,362","332,277","310,019"
-Vermont,"48,450","47,101","46,481","45,762","29,600"
-Virginia,"702,360","694,908","702,417","704,413","492,332"
-Virgin Islands,"11,261","9,588","5,001","7,326","4,515"
-Washington,"521,146","523,339","517,572","519,311","350,833"
-West Virginia,"193,201","191,544","186,269","186,879","135,217"
-Wisconsin,"528,139","510,652","500,434","504,015","357,442"
-Wyoming,"50,876","49,905","48,141","47,209","33,578"
-Commonwealth of Northern Mariana Islands,--,--,--,--,--
-DOD Marines,320,294,331,350,277
-DOD Navy,"2,787","2,710","2,934","2,953","2,192"
-DOD Germany,--,--,--,--,--
-  TOTAL,"30,362,335","29,991,780","29,743,550","29,557,607","22,443,851"
-,,,,,
+State,Amount,Year
+Alabama,"525,931",FY 2016
+Alaska,"52,480",FY 2016
+American Samoa,--,FY 2016
+Arizona,"641,045",FY 2016
+Arkansas,"317,039",FY 2016
+California,"3,251,929",FY 2016
+Colorado,"376,744",FY 2016
+Connecticut,"288,156",FY 2016
+Delaware,"98,528",FY 2016
+District of Columbia,"53,886",FY 2016
+Florida,"1,704,153",FY 2016
+Georgia,"1,224,627",FY 2016
+Guam,"18,485",FY 2016
+Hawaii,"106,993",FY 2016
+Idaho,"157,149",FY 2016
+Illinois,"1,084,030",FY 2016
+Indiana,"754,995",FY 2016
+Iowa,"381,877",FY 2016
+Kansas,"342,540",FY 2016
+Kentucky,"528,663",FY 2016
+Louisiana,"548,136",FY 2016
+Maine,"99,422",FY 2016
+Maryland,"446,283",FY 2016
+Massachusetts,"531,647",FY 2016
+Michigan,"823,888",FY 2016
+Minnesota,"616,257",FY 2016
+Mississippi,"381,642",FY 2016
+Missouri,"598,665",FY 2016
+Montana,"82,747",FY 2016
+Nebraska,"242,254",FY 2016
+Nevada,"222,218",FY 2016
+New Hampshire,"85,946",FY 2016
+New Jersey,"695,986",FY 2016
+New Mexico,"219,638",FY 2016
+New York,"1,679,716",FY 2016
+North Carolina,"892,867",FY 2016
+North Dakota,"91,374",FY 2016
+Ohio,"1,013,673",FY 2016
+Oklahoma,"447,425",FY 2016
+Oregon,"303,164",FY 2016
+Pennsylvania,"1,029,008",FY 2016
+Puerto Rico,"276,273",FY 2016
+Rhode Island,"77,882",FY 2016
+South Carolina,"478,436",FY 2016
+South Dakota,"108,324",FY 2016
+Tennessee,"671,671",FY 2016
+Texas,"3,377,166",FY 2016
+Utah,"334,438",FY 2016
+Vermont,"48,450",FY 2016
+Virginia,"702,360",FY 2016
+Virgin Islands,"11,261",FY 2016
+Washington,"521,146",FY 2016
+West Virginia,"193,201",FY 2016
+Wisconsin,"528,139",FY 2016
+Wyoming,"50,876",FY 2016
+Commonwealth of Northern Mariana Islands,--,FY 2016
+DOD Marines,320,FY 2016
+DOD Navy,"2,787",FY 2016
+DOD Germany,--,FY 2016
+Alabama,"511,643",FY 2017
+Alaska,"53,578",FY 2017
+American Samoa,--,FY 2017
+Arizona,"638,068",FY 2017
+Arkansas,"314,201",FY 2017
+California,"3,215,762",FY 2017
+Colorado,"368,668",FY 2017
+Connecticut,"283,198",FY 2017
+Delaware,"98,977",FY 2017
+District of Columbia,"52,711",FY 2017
+Florida,"1,715,860",FY 2017
+Georgia,"1,211,207",FY 2017
+Guam,"17,792",FY 2017
+Hawaii,"103,947",FY 2017
+Idaho,"155,249",FY 2017
+Illinois,"1,059,266",FY 2017
+Indiana,"743,331",FY 2017
+Iowa,"377,927",FY 2017
+Kansas,"338,077",FY 2017
+Kentucky,"525,319",FY 2017
+Louisiana,"550,544",FY 2017
+Maine,"97,730",FY 2017
+Maryland,"445,433",FY 2017
+Massachusetts,"529,822",FY 2017
+Michigan,"801,942",FY 2017
+Minnesota,"613,846",FY 2017
+Mississippi,"371,355",FY 2017
+Missouri,"586,909",FY 2017
+Montana,"82,175",FY 2017
+Nebraska,"242,852",FY 2017
+Nevada,"224,528",FY 2017
+New Hampshire,"83,276",FY 2017
+New Jersey,"694,111",FY 2017
+New Mexico,"217,324",FY 2017
+New York,"1,663,296",FY 2017
+North Carolina,"866,759",FY 2017
+North Dakota,"91,950",FY 2017
+Ohio,"994,189",FY 2017
+Oklahoma,"442,478",FY 2017
+Oregon,"297,120",FY 2017
+Pennsylvania,"1,021,263",FY 2017
+Puerto Rico,"244,863",FY 2017
+Rhode Island,"77,399",FY 2017
+South Carolina,"472,538",FY 2017
+South Dakota,"107,494",FY 2017
+Tennessee,"656,161",FY 2017
+Texas,"3,348,959",FY 2017
+Utah,"335,493",FY 2017
+Vermont,"47,101",FY 2017
+Virginia,"694,908",FY 2017
+Virgin Islands,"9,588",FY 2017
+Washington,"523,339",FY 2017
+West Virginia,"191,544",FY 2017
+Wisconsin,"510,652",FY 2017
+Wyoming,"49,905",FY 2017
+Commonwealth of Northern Mariana Islands,--,FY 2017
+DOD Marines,294,FY 2017
+DOD Navy,"2,710",FY 2017
+DOD Germany,--,FY 2017
+Alabama,"499,631",FY 2018
+Alaska,"53,653",FY 2018
+American Samoa,--,FY 2018
+Arizona,"627,683",FY 2018
+Arkansas,"310,997",FY 2018
+California,"3,177,216",FY 2018
+Colorado,"367,376",FY 2018
+Connecticut,"278,108",FY 2018
+Delaware,"97,980",FY 2018
+District of Columbia,"56,095",FY 2018
+Florida,"1,752,599",FY 2018
+Georgia,"1,190,338",FY 2018
+Guam,"17,241",FY 2018
+Hawaii,"102,751",FY 2018
+Idaho,"151,937",FY 2018
+Illinois,"1,044,213",FY 2018
+Indiana,"734,633",FY 2018
+Iowa,"373,033",FY 2018
+Kansas,"333,287",FY 2018
+Kentucky,"515,845",FY 2018
+Louisiana,"548,082",FY 2018
+Maine,"96,195",FY 2018
+Maryland,"443,321",FY 2018
+Massachusetts,"527,937",FY 2018
+Michigan,"793,460",FY 2018
+Minnesota,"610,081",FY 2018
+Mississippi,"361,804",FY 2018
+Missouri,"578,290",FY 2018
+Montana,"80,854",FY 2018
+Nebraska,"244,089",FY 2018
+Nevada,"227,933",FY 2018
+New Hampshire,"80,656",FY 2018
+New Jersey,"690,361",FY 2018
+New Mexico,"213,970",FY 2018
+New York,"1,683,130",FY 2018
+North Carolina,"851,197",FY 2018
+North Dakota,"93,071",FY 2018
+Ohio,"984,750",FY 2018
+Oklahoma,"436,689",FY 2018
+Oregon,"293,894",FY 2018
+Pennsylvania,"1,017,650",FY 2018
+Puerto Rico,"192,610",FY 2018
+Rhode Island,"76,402",FY 2018
+South Carolina,"472,200",FY 2018
+South Dakota,"106,416",FY 2018
+Tennessee,"653,668",FY 2018
+Texas,"3,342,356",FY 2018
+Utah,"333,362",FY 2018
+Vermont,"46,481",FY 2018
+Virginia,"702,417",FY 2018
+Virgin Islands,"5,001",FY 2018
+Washington,"517,572",FY 2018
+West Virginia,"186,269",FY 2018
+Wisconsin,"500,434",FY 2018
+Wyoming,"48,141",FY 2018
+Commonwealth of Northern Mariana Islands,--,FY 2018
+DOD Marines,331,FY 2018
+DOD Navy,"2,934",FY 2018
+DOD Germany,--,FY 2018
+Alabama,"499,934",FY 2019
+Alaska,"53,285",FY 2019
+American Samoa,--,FY 2019
+Arizona,"619,431",FY 2019
+Arkansas,"312,581",FY 2019
+California,"3,153,141",FY 2019
+Colorado,"360,197",FY 2019
+Connecticut,"284,286",FY 2019
+Delaware,"98,371",FY 2019
+District of Columbia,"52,641",FY 2019
+Florida,"1,725,924",FY 2019
+Georgia,"1,174,602",FY 2019
+Guam,"19,493",FY 2019
+Hawaii,"103,712",FY 2019
+Idaho,"148,762",FY 2019
+Illinois,"1,014,938",FY 2019
+Indiana,"727,813",FY 2019
+Iowa,"373,442",FY 2019
+Kansas,"331,044",FY 2019
+Kentucky,"514,524",FY 2019
+Louisiana,"545,226",FY 2019
+Maine,"95,318",FY 2019
+Maryland,"441,984",FY 2019
+Massachusetts,"526,432",FY 2019
+Michigan,"803,269",FY 2019
+Minnesota,"605,578",FY 2019
+Mississippi,"354,127",FY 2019
+Missouri,"564,083",FY 2019
+Montana,"79,205",FY 2019
+Nebraska,"243,570",FY 2019
+Nevada,"230,150",FY 2019
+New Hampshire,"80,389",FY 2019
+New Jersey,"667,127",FY 2019
+New Mexico,"208,952",FY 2019
+New York,"1,688,388",FY 2019
+North Carolina,"835,081",FY 2019
+North Dakota,"93,332",FY 2019
+Ohio,"969,722",FY 2019
+Oklahoma,"432,496",FY 2019
+Oregon,"287,378",FY 2019
+Pennsylvania,"1,011,895",FY 2019
+Puerto Rico,"198,588",FY 2019
+Rhode Island,"77,705",FY 2019
+South Carolina,"473,926",FY 2019
+South Dakota,"105,338",FY 2019
+Tennessee,"641,334",FY 2019
+Texas,"3,362,143",FY 2019
+Utah,"332,277",FY 2019
+Vermont,"45,762",FY 2019
+Virginia,"704,413",FY 2019
+Virgin Islands,"7,326",FY 2019
+Washington,"519,311",FY 2019
+West Virginia,"186,879",FY 2019
+Wisconsin,"504,015",FY 2019
+Wyoming,"47,209",FY 2019
+Commonwealth of Northern Mariana Islands,--,FY 2019
+DOD Marines,350,FY 2019
+DOD Navy,"2,953",FY 2019
+DOD Germany,--,FY 2019
