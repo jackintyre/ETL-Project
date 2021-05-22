@@ -1,9 +1,4 @@
-8th Grade,2015,2017,2019
-All students,282,283,282
-  Eligible ,268,267,266
-  Not eligible ,296,296,296
-  Unknown ,294,296,294
-  Parent(s) Did not finish high school ,265,265,264
-  Parent(s) Graduated high school ,268,267,265
- Parent(s)  Some education after high school ,282,281,280
- Parent(s)  Graduated college ,294,294,293
+Year,All students,  Eligible ,  Not eligible ,  Unknown ,  Parent(s) Did not finish high school ,  Parent(s) Graduated high school , Parent(s)  Some education after high school , Parent(s)  Graduated college 
+2015,282,268,296,294,265,268,282,294
+2017,283,267,296,296,265,267,281,294
+2019,282,266,296,294,264,265,280,293
